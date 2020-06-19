@@ -130,7 +130,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/start.png"
-    date: "September 2013 - Today"
+    date: "~6월 18일 1차 제작"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
