@@ -53,7 +53,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Hello! I'm LeeSeungHun."
+  - text: "Hello! My name is Lee Seung Hun."
   - text: "Welcome to my page :)"
 
 me-img: "/img/jetpacktocat.png"
@@ -168,19 +168,7 @@ social:
     url: "https://github.com/LeeSeungHun-35"
   - title: "instagram"
     url: "https://.instagram.com/leeseunghun_10100"
-############
-# 404 page #
-############
 
-err-404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
 
 ################################################################################
 
