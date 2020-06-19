@@ -131,9 +131,9 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/start.png"
     date: "~6월 18일 1차 제작"
-    description: "만드는 도중 전체적인 디자인 바꿈!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
+    description: "만드는 도중 디자인 바꿈!"
+  - image: "/img/timeline/작업중.jpg"
+    date: "6월 19일 새로운 디자인 선택, 제작 시작"
     description: "Started coding"
 
 # First image of the Timeline
