@@ -54,7 +54,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello! My name is Lee Seung Hun."
-  - text: "Welcome to my page :)"
+  - text: "Welcome to my page ¯\_(ツ)_/¯"
 
 me-img: "/img/jetpacktocat.png"
 
