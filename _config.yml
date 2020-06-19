@@ -131,7 +131,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/start.png"
     date: "~6월 18일 1차 제작"
-    description: "Saving the neighborhood!"
+    description: "만드는 도중 전체적인 디자인 바꿈!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
