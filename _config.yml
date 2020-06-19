@@ -131,7 +131,8 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/start.png"
     date: "~6월 18일"
-    description: "1차 제작 만드는 도중 디자인 교체"
+    description: "1차 제작 만드는 도중 
+                  디자인 교체"
   - image: "/img/timeline/작업중.jpg"
     date: "6월 19일"
     description: "새로운 디자인 선택, 2차 제작"
