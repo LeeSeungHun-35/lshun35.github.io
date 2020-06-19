@@ -28,12 +28,10 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "kor"
+lang: "EN"
 author: "Lee Seung Hun"
 title: "{ Lee Seung Hun }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+
 
 ################
 # Header layout #
