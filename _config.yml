@@ -109,7 +109,7 @@ events:
   - image: "/img/timeline/egg.png"
     date: "~6월 18일"
     description: "만드는 도중 디자인 교체"
-  - image: "/img/timeline/ing.jpg"
+  - image: "/img/timeline/chick.jpg"
     date: "6월 19일"
     description: "새로운 디자인 선택, 2차 제작"
   - image: "/img/timeline/finish.jpg"
