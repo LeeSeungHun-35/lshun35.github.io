@@ -106,14 +106,15 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-  - image: "/img/timeline/egg.png"
+  - image: "/img/timeline/egg.jpg"
     date: "~6월 18일"
     description: "만드는 도중 디자인 교체"
   - image: "/img/timeline/chick.jpg"
     date: "6월 19일"
     description: "새로운 디자인 선택, 2차 제작"
-  - image: "/img/timeline/finish.jpg"
-    date: "~6월 24일 끝"
+  - image: "/img/timeline/chicken.jpg"
+    date: "~6월 24일"
+    description: " 최종 수정 후 끝 "
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
