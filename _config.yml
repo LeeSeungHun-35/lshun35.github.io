@@ -145,7 +145,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "ish0542@naver.com"
 
 ################
 # Author Blurb #
@@ -179,7 +179,6 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
