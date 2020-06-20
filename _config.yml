@@ -111,7 +111,7 @@ events:
     description: "만드는 도중 디자인 교체"
   - image: "/img/timeline/chick.jpg"
     date: "6월 19일"
-    description: "새로운 디자인 선택, 2차 제작"
+    description: " 처음부터 새로운 시작 "
   - image: "/img/timeline/chicken.jpg"
     date: "~6월 24일"
     description: " 최종 수정 후 끝 "
