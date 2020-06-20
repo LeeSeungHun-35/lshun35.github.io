@@ -99,30 +99,6 @@ icon-96p: "/img/web-app/icon-96p.png"
 icon-144p: "/img/web-app/icon-144p.png"
 icon-192p: "/img/web-app/icon-192p.png"
 
-########
-# Blog #
-########
-
-enable-gesture-navigation: False
-
-post-preview-words: 96
-
-paginate: 5
-
-email-share: False
-fb-share: False
-twitter-share: False
-linkedin-share: False
-reddit-share: False
-google-plus-share: False
-tumblr-share: False
-pinterest-share: False
-pocket-share: False
-vkontakte-share: False
-
-disqus-shortname: "personal-jekyll-theme"
-
-syntax-highlight: False
 
 
 ############
