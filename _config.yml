@@ -111,7 +111,7 @@ events:
     description: "제작 시작 후 디자인 교체"
   - image: "/img/timeline/chick.jpg"
     date: "6월 19일"
-    description: "홈페이지 디자인 교체<br>더 이상 바꾸지 않기로 다짐<br>처음부터 새로운 시작"
+    description: "홈페이지 디자인 한 번 더 교체<br>더 이상 바꾸지 않기로 다짐<br>처음부터 새로운 시작"
   - image: "/img/timeline/chicken.jpg"
     date: "~6월 24일"
     description: " 최종 수정, 점검 후 끝 "
