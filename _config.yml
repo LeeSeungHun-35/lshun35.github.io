@@ -49,8 +49,8 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 15
-start-delay: 200
+type-speed: 9
+start-delay: 1000
 delete-delay: 15000
 lines: # You can add HTML Tags in the Text
   - text: "안녕하세요, 사이버보안전공 이승훈입니다! (20202035)"
