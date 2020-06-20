@@ -106,7 +106,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 ############
 
 events:
-  - image: "/img/timeline/start.png"
+  - image: "/img/timeline/egg.png"
     date: "~6월 18일"
     description: "만드는 도중 디자인 교체"
   - image: "/img/timeline/ing.jpg"
