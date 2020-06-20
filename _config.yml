@@ -53,7 +53,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 15000
 lines: # You can add HTML Tags in the Text
-  - text: "Hello! My name is Lee Seung Hun."
+  - text: "Hello! I'm Lee Seung Hoon from the Department of Cybersecurity."
   - text: "Welcome to my Homepage! "
 
 me-img: "/img/jetpacktocat.png"
