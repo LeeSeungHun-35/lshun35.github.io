@@ -112,7 +112,7 @@ events:
   - image: "/img/timeline/chick.jpg"
     date: "6월 19일"
     description: "새로운 디자인 선택, 2차 제작"
-  - image: "/img/timeline/chicken.jpg"
+  - image: "/img/timeline/chicken.png"
     date: "~6월 24일"
     description: " 최종 수정 후 끝 "
 # First image of the Timeline
