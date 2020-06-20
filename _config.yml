@@ -49,12 +49,12 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
+type-speed: 15
 start-delay: 200
 delete-delay: 15000
 lines: # You can add HTML Tags in the Text
-  - text: "안녕하세요 사이버보안전공 이승훈 입니다!"
-  - text: "I'm majoring in cyber security! "
+  - text: "HELLO, MY NAME IS LEE SEUNG HUN! (20202035)"
+  - text: "WELCOME TO MY PAGE! "
 
 me-img: "/img/jetpacktocat.png"
 
