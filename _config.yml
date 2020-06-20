@@ -53,8 +53,8 @@ type-speed: 15
 start-delay: 200
 delete-delay: 15000
 lines: # You can add HTML Tags in the Text
-  - text: "HELLO, MY NAME IS LEE SEUNG HUN! (20202035)"
-  - text: "WELCOME TO MY PAGE! "
+  - text: "안녕하세요, 사이버보안전공 이승훈입니다! (20202035)"
+  - text: "오픈소프트웨어 실습 시험으로 제작 되었습니다! "
 
 me-img: "/img/jetpacktocat.png"
 
